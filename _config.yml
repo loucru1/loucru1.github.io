@@ -8,7 +8,9 @@
 # Site settings
 title: Louis Cruz
 email: lac323@cornell.edu
-description: What a great description!
+description: >
+            I am a junior studying computer science at Cornell University.
+             This is my blog where I learn and write about data science!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://loucru1.github.io" # the base hostname & protocol for your site
 twitter_username: louiscomments
