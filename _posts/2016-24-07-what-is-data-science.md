@@ -68,7 +68,7 @@ Once a model is chosen, it’s time to train the model. Training is where the he
 
 
 # Prediction
-Now that a machine learning model has been picked and trained, the fun begins. Trained models are able to predict future outcomes with incoming data. For example, take the linear regression model above. Using this model, you could predict that for an investment of $300 (incoming data) you could expect a return of $500 (prediction). Similarly, in a computer vision model, you could feed in a new picture of an animal and the model could classify it as an image of a dog. Keep in mind that the scope of what a model can predict depends entirely on the data it is trained on.
+Now that a machine learning model has been picked and trained, the fun begins. Trained models are able to predict future outcomes with incoming data. For example, take the titanic model above. Using this model, you could predict that for a 30 year old male (incoming data), you could expect the probability of surival to be around 20% (prediction). Similarly, in a computer vision model, you could feed in a new picture of an animal and the model could classify it as an image of a dog. Keep in mind that the scope of what a model can predict depends entirely on the data it is trained on.
 
 ## Wrap up
 And that’s it! You now have a predicting machine learning model! The process outlined here can work with many machine learning models. Using machine learning is not as hard or mysterious as it’s worked out to be, and understanding the basics will go far in creating a decent model.
