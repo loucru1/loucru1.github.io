@@ -1,0 +1,20 @@
+<div class="image-wrapper" >
+    {% if include.url %}
+    <a href="{{ include.url }}" title="{{ include.title }}" target="_blank">
+    {% endif %}
+
+    {% if jekyll.environment == 'production' %}
+        <img src="{{ site.url }}/{{ include.img }}" alt="{{ include.title }}"/>
+    {% endif %}
+
+    {% if jekyll.environment == 'development' %}
+        <img src="/{{ include.img }}" alt="{{ include.title }}"/>
+    {% endif %}
+
+    {% if include.url %}
+    </a>
+    {% endif %}
+    {% if include.caption %}
+        <p class="image-caption">{{ include.caption }}</p>
+    {% endif %}
+</div>
