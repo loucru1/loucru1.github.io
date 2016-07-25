@@ -61,7 +61,7 @@ Once a model is chosen, it’s time to train the model. Training is where the he
 {% include image.html
             img="assets/titanic_survival.png"
             title="logistical regression titanic"
-            caption="Figure 2: Two logistacl models (lines) trained on historical
+            caption="Figure 2: Two logistical models (lines) trained on historical
             surival tally of titanic passengers (dots). The models are separated
             by sex and predict the survival rate of a passenger given age and sex. "
              %}
