@@ -4,6 +4,7 @@ title:  "What is Data Science, Machine Learning?"
 date:   2016-07-24 01:01:01 -0400
 excerpt_separator: <!--more-->
 categories: data-science machine-learning ml
+comments: true
 ---
 
 Over recent years there has been an increasing demand for data scientists. As smartphones become more ubiquitous and the rising trend of IoTs continues, ‘big data’ analysis has never been more essential.
