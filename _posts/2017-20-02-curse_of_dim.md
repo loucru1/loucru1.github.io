@@ -37,3 +37,5 @@ So why is this so bad? Well, let's consider the case where  \\( d = 1000 \\) . H
 
 # Wrap Up
 When doing machine learning it’s very important to understand the model you are using. There is no perfect model for every problem so it’s critical to be conscious of their benefits and drawbacks. For \\( k \\)-nearest neighbors, its limitation is the curse of dimensionality because as the dimensions of the data set grow, distance becomes less of a valuable metric to measure similarity.
+
+Credits: Kevin P. Murphy, 2012; Kilian Weinberger, CS 4870
