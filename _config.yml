@@ -17,10 +17,10 @@ twitter_username: louiscomments
 github_username:  loucru1
 
 # Build settings
-markdown: redcarpet
+markdown: kramdown
 
-redcarpet:
-    extensions: ["no_intra_emphasis", "tables", "autolink", "strikethrough", "with_toc_data"]
+
+
 
 # travis-ci
 exclude: [vendor]
