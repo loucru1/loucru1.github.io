@@ -54,7 +54,7 @@ python, which can be used to help determine what machine learning model might be
             title="scikit-learn algorithm flowchart"
             caption="Figure 1: A flowchart designed to help select a suitable
             model based on type of data and problem."
-             %}
+%}
 
 <br><br>
 Once a model is chosen, it’s time to train the model. Training is where the heavy lifting, math intensive, ’learning’ is done; each model defines its own method of training. The purpose of training is to use input data to develop mathematical relationships between variables. Figure 2 is an example of a logistical regression model trained on survival (1 = survived, 0 = died) on the titanic by sex. Notice that depending on the training data, male vs female, the model produces a different logistical curve.
