@@ -18,3 +18,7 @@ github_username:  loucru1
 
 # Build settings
 markdown: kramdown
+
+# travis-ci
+exclude: [vendor]
+sudo: false
