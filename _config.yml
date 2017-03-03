@@ -16,11 +16,15 @@ url: "http://loucru1.github.io" # the base hostname & protocol for your site
 twitter_username: louiscomments
 github_username:  loucru1
 
+
 # Build settings
 markdown: kramdown
+gems:
+  - jekyll-seo-tag
 
-
-
+author: Louis Cruz
+twitter:
+  username: louiscomments
 
 # travis-ci
 exclude: [vendor]
