@@ -7,7 +7,6 @@ category: data-science
 tags: [ml, data-science]
 comments: true
 ---
-
 Over recent years there has been an increasing demand for data scientists. As smartphones become more ubiquitous and the rising trend of IoTs continues, ‘big data’ analysis has never been more essential.
 
 However, many are still confused about what data science exactly is. The tech industry emphasizes buzzwords like ‘machine learning’ and ‘big data’ (leading many to believe that is solely what data science is all about.) Although dealing with big data and doing machine learning are important, they are only components of the larger process that make up data science.
@@ -48,24 +47,25 @@ The main reason for using some features of the dataset and not the entire datase
 Picking a model that fits a project’s needs depends mainly on the the input data and desired output. Some models require the data to be labeled with its expected output (i.e. supervised models), where other models don’t require such overhead (unsupervised model). Some models produce binary or categorical outputs, while others produce the probabilities for every possible outcome. Usually, multiple models can be applied to a data set, so it is encouraged to experiment with different models to find out which method works best with a project. Figure 1 is a chart made by [scikit-learn](http://scikit-learn.org/stable/), a popular machine learning library in
 python, which can be used to help determine what machine learning model might be best for a particular situation.
 
-<br><br>
-
 {% include image.html
             img="assets/ml_map.png"
             title="scikit-learn algorithm flowchart"
             caption="Figure 1: A flowchart designed to help select a suitable
             model based on type of data and problem."
+            credit="scikit-learn"
+            credit_link="http://scikit-learn.org/stable/"
 %}
 
-<br><br>
 Once a model is chosen, it’s time to train the model. Training is where the heavy lifting, math intensive, ’learning’ is done; each model defines its own method of training. The purpose of training is to use input data to develop mathematical relationships between variables. Figure 2 is an example of a logistical regression model trained on survival (1 = survived, 0 = died) on the titanic by sex. Notice that depending on the training data, male vs female, the model produces a different logistical curve.
 
 {% include image.html
             img="assets/titanic_survival.png"
             title="logistical regression titanic"
             caption="Figure 2: Two logistical models (lines) trained on historical
-            surival tally of titanic passengers (dots). The models are separated
-            by sex and predict the survival rate of a passenger given age and sex. "
+            survival tally of titanic passengers (dots). The models are separated
+            by sex and predict the survival rate of a passenger given age and sex."
+            credit="scikit-learn"
+            credit_link="http://scikit-learn.org/stable/"
  %}
 
 

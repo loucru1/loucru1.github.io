@@ -15,6 +15,11 @@
     </a>
     {% endif %}
     {% if include.caption %}
-        <p class="image-caption">{{ include.caption }}</p>
+        <p class="image-caption">{{ include.caption }}
+          {% if include.credit %}
+            <br/>Credit: <a href="{{ include.credit_link }}" class="image-credit">{{ include.credit }}</a>
+            {% endif %}
+        </p>
     {% endif %}
+
 </div>
