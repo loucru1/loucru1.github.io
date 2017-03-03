@@ -3,7 +3,8 @@ layout: post
 title:  "The Curse of Dimensionality"
 date:   2017-02-20 01:01:01 -0400
 excerpt_separator: <!--more-->
-categories: data-science machine-learning ml
+category: machine-learning
+tags: [data-science, ml]
 comments: true
 ---
 One of the limitations of the \\( k \\)-nearest neighbor algorithms is that it performs worse as the number of dimensions in the data grows. This is caused by a phenomenon which data scientists call The Curse of Dimensionality. My goal of this post is to give some intuition on the implications on \\( k \\)-nearest neighbors.
@@ -38,4 +39,4 @@ So why is this so bad? Well, let's consider the case where  \\( d = 1000 \\) . H
 # Wrap Up
 When doing machine learning it’s very important to understand the model you are using. There is no perfect model for every problem so it’s critical to be conscious of their benefits and drawbacks. For \\( k \\)-nearest neighbors, its limitation is the curse of dimensionality because as the dimensions of the data set grow, distance becomes less of a valuable metric to measure similarity.
 
-Credits: Kevin P. Murphy, 2012; Kilian Weinberger, CS 4870
+Credits: Kevin P. Murphy, 2012; Kilian Weinberger, CS 4780

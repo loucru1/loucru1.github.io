@@ -3,7 +3,8 @@ layout: post
 title:  "What is Data Science, Machine Learning?"
 date:   2016-07-24 01:01:01 -0400
 excerpt_separator: <!--more-->
-categories: data-science machine-learning ml
+category: data-science
+tags: [ml, data-science]
 comments: true
 ---
 
@@ -65,7 +66,7 @@ Once a model is chosen, it’s time to train the model. Training is where the he
             caption="Figure 2: Two logistical models (lines) trained on historical
             surival tally of titanic passengers (dots). The models are separated
             by sex and predict the survival rate of a passenger given age and sex. "
-             %}
+ %}
 
 
 # Prediction
