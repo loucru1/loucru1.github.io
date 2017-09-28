@@ -4,10 +4,10 @@ title: About Me
 permalink: /about/
 ---
 
-__Name:__ Louis Cruz  
-__Location:__ Los Angeles, CA | Ithaca, NY  
-__Occupation:__ Senior at Cornell University  
-__Email:__ lac323@cornell.edu
+**Name:** Louis Cruz  
+**Location:** Los Angeles, CA | Ithaca, NY  
+**Occupation:** Senior at Cornell University  
+**Email:** lac323@cornell.edu
 
 I am senior studying computer science at Cornell University. My interests
 include bitcoin, philosophy, math, and economics. This blog is my haphazard
