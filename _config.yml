@@ -19,7 +19,7 @@ tag_page: /tags/
 
 # Build settings
 markdown: kramdown
-gems:
+plugins:
   - jekyll-seo-tag
 
 author: Louis Cruz

@@ -19,5 +19,5 @@ database mutations over time. In the past I have also worked at Comcast doing
 data science to analyze customer sentiment, and NASA's Jet Propulsion
 Laboratory where developed a mission planning tool for the
 [Dawn](http://dawn.jpl.nasa.gov/) mission. I also participated in Cornell's
-[Violet Satellite Project](https://cusat.cornell.edu/violet/), helping to
+[Violet Satellite Project](http://web.archive.org/web/20170618115724/http://cusat.cornell.edu:80/violet/), helping to
 develop low level packet management software.
