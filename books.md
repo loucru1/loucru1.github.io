@@ -7,6 +7,11 @@ permalink: /reading-list/
 Last updated: February 2018
 
 # Currently Reading
+
+* __Andrew Appel__, [_Modern Compiler Implementation in Java_](https://www.amazon.com/Modern-Compiler-Implementation-Andrew-Appel/dp/052182060X)
+
+* __A. Aho, R. Sethi, J. Ullman__, [_Compilers: Principles, Techniques, and Tools_](https://www.amazon.com/Compilers-Principles-Techniques-Tools-2nd/dp/0321486811/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1520189329&sr=1-1&dpID=51Bug87tM%252BL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=detail)
+
 * __Czeslaw Milosz__, [_The Captive Mind_](https://www.amazon.com/Captive-Mind-Czeslaw-Milosz/dp/0679728562)
 
 * __Yuval Harari__, [_Sapiens: A Brief History of Humankind_](https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095/ref=sr_1_1?s=books&ie=UTF8&qid=1488658001&sr=1-1&keywords=sapiens)
