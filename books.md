@@ -22,7 +22,6 @@ Last updated: February 2018
 
 # On the Radar
 
-* __Abram Tertz__, [_The Trial Begins_](https://www.amazon.com/Trial-Begins-Socialist-Realism/dp/0520046773/ref=sr_1_1?s=books&ie=UTF8&qid=1519578434&sr=1-1&keywords=the+trial+begins)
 
 * __Friedrich Dürrenmatt__, [_The Visit_](https://www.amazon.com/dp/0802144268/ref=cm_sw_r_tw_dp_U_x_-3UKAbMSADP5N)
 
@@ -31,6 +30,10 @@ Last updated: February 2018
 * __Thomas Sowell__, [_Intellectuals and Society_](https://www.amazon.com/Intellectuals-Society-Expanded-Thomas-Sowell/dp/0465025226/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1519580142&sr=1-1)
 
 # Recently Finished
+
+* __Abram Tertz__, [_The Trial Begins_](https://www.amazon.com/Trial-Begins-Socialist-Realism/dp/0520046773/ref=sr_1_1?s=books&ie=UTF8&qid=1519578434&sr=1-1&keywords=the+trial+begins)
+Highly recommended, an engaging and short read. In this short novel, Tertz satires Marxist Russia through the lives of a family.
+Each character is equally fascinating and insightful. Tertz's highly vivid metaphorical imagery makes the read that much more enjoyable. 
 
 * __Thomas Sowell__, [_The Vision of the Anointed_](https://www.amazon.com/Vision-Anointed-Self-Congratulation-Social-Policy/dp/046508995X/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1520359941&sr=8-1)
 Excellent book, highly recommended. I found this book particularly useful in understanding the current state of Left politics. Sowell deconstructs the false assumptions and failures of the "Anointed" -- political intellectuals who's 'superior' intellect and morals guide their attempts to 'fix' society and government. Moreover, Sowell presents a paradigm of thinking which views the world as system under constraints. For example, added resources to one part of the system will invariable lead to decreased resources to another.
