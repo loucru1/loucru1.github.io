@@ -12,24 +12,26 @@ Last updated: February 2018
 
 * __A. Aho, R. Sethi, J. Ullman__, [_Compilers: Principles, Techniques, and Tools_](https://www.amazon.com/Compilers-Principles-Techniques-Tools-2nd/dp/0321486811/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1520189329&sr=1-1&dpID=51Bug87tM%252BL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=detail)
 
-* __Czeslaw Milosz__, [_The Captive Mind_](https://www.amazon.com/Captive-Mind-Czeslaw-Milosz/dp/0679728562)
 
 * __Yuval Harari__, [_Sapiens: A Brief History of Humankind_](https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095/ref=sr_1_1?s=books&ie=UTF8&qid=1488658001&sr=1-1&keywords=sapiens)
 
 
 * __W.S. Gilbert__, [_The Savoy Operas_](https://www.amazon.com/Savoy-Operas-Complete-Sullivan-Classics-ebook/dp/B002RI95AE/ref=sr_1_1?s=books&ie=UTF8&qid=1519577742&sr=1-1&keywords=the+savoy+operas)
 
+* __Friedrich Dürrenmatt__, [_The Visit_](https://www.amazon.com/dp/0802144268/ref=cm_sw_r_tw_dp_U_x_-3UKAbMSADP5N)
+
 
 # On the Radar
 
-
-* __Friedrich Dürrenmatt__, [_The Visit_](https://www.amazon.com/dp/0802144268/ref=cm_sw_r_tw_dp_U_x_-3UKAbMSADP5N)
 
 * __Jorge Luis Borges__, [_Labryinths_](https://www.amazon.com/Labyrinths-Directions-Paperbook-Jorge-Borges/dp/0811216993/ref=sr_1_1?s=books&ie=UTF8&qid=1519579062&sr=1-1&keywords=labyrinth+jorge)
 
 * __Thomas Sowell__, [_Intellectuals and Society_](https://www.amazon.com/Intellectuals-Society-Expanded-Thomas-Sowell/dp/0465025226/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1519580142&sr=1-1)
 
 # Recently Finished
+
+* __Czeslaw Milosz__, [_The Captive Mind_](https://www.amazon.com/Captive-Mind-Czeslaw-Milosz/dp/0679728562)
+Great read! (I mean, it won a Nobel Prize for Literature) Through his experience in the Soviet Union, Milosz outlines how intelligent and "normal" people can accept, rationalize, and participate in dangerous ideologies. It is easy to look from the outside and judge people for what we believe to the incorrect decision. Milosz's book shows us that it is not that simple; even dangerous ideologies can have allure for an individual.
 
 * __Abram Tertz__, [_The Trial Begins_](https://www.amazon.com/Trial-Begins-Socialist-Realism/dp/0520046773/ref=sr_1_1?s=books&ie=UTF8&qid=1519578434&sr=1-1&keywords=the+trial+begins)
 Highly recommended, an engaging and short read. In this short novel, Tertz satires Marxist Russia through the lives of a family.
