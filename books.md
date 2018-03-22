@@ -16,9 +16,6 @@ Last updated: February 2018
 * __Yuval Harari__, [_Sapiens: A Brief History of Humankind_](https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095/ref=sr_1_1?s=books&ie=UTF8&qid=1488658001&sr=1-1&keywords=sapiens)
 
 
-* __W.S. Gilbert__, [_The Savoy Operas_](https://www.amazon.com/Savoy-Operas-Complete-Sullivan-Classics-ebook/dp/B002RI95AE/ref=sr_1_1?s=books&ie=UTF8&qid=1519577742&sr=1-1&keywords=the+savoy+operas)
-
-* __Friedrich Dürrenmatt__, [_The Visit_](https://www.amazon.com/dp/0802144268/ref=cm_sw_r_tw_dp_U_x_-3UKAbMSADP5N)
 
 
 # On the Radar
@@ -29,6 +26,12 @@ Last updated: February 2018
 * __Thomas Sowell__, [_Intellectuals and Society_](https://www.amazon.com/Intellectuals-Society-Expanded-Thomas-Sowell/dp/0465025226/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1519580142&sr=1-1)
 
 # Recently Finished
+
+* __W.S. Gilbert__, [_The Savoy Operas_](https://www.amazon.com/Savoy-Operas-Complete-Sullivan-Classics-ebook/dp/B002RI95AE/ref=sr_1_1?s=books&ie=UTF8&qid=1519577742&sr=1-1&keywords=the+savoy+operas)
+Funny and enjoyable reads! I read HMS Pinafore, Iolanthe, Utopia Limited, and The Pirates of Penzance. Gilbert is an expert satirest and opera writer. His operas are critical of British traditions as they are catchy. Recommeneded for a quick and relaxing read.
+
+* __Friedrich Dürrenmatt__, [_The Visit_](https://www.amazon.com/dp/0802144268/ref=cm_sw_r_tw_dp_U_x_-3UKAbMSADP5N)
+Another funny-yet-powerful read! This book handles difficult issues of poverty and ethics with a comedict twist. It is a short read that I would recommend if one is in a mood for macabre humor.
 
 * __Czeslaw Milosz__, [_The Captive Mind_](https://www.amazon.com/Captive-Mind-Czeslaw-Milosz/dp/0679728562)
 Great read! (I mean, it won a Nobel Prize for Literature) Through his experience in the Soviet Union, Milosz outlines how intelligent and "normal" people can accept, rationalize, and participate in dangerous ideologies. It is easy to look from the outside and judge people for what we believe to the incorrect decision. Milosz's book shows us that it is not that simple; even dangerous ideologies can have allure for an individual.
