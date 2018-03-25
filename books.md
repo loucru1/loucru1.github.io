@@ -27,11 +27,14 @@ Last updated: March 2018
 
 # Recently Finished
 
+* __Cal Newport__, [_Deep Work_](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692)
+Gives actionable advice, skim for the meat. This is my second time reading Deep Work. The first time was in freshman year of college and I wasn't in the right mindset to apply the advice given in this book. In high school, I began to develop my own hypothesis that intelligence and success was mainly in part of your ability to focus. This book provides copious evidence for a similar idea. In my second reading, I skimmed mostly for the advice. I plan to employ some of the techniques gradually over the next few months -- possibly writing a post about my results. It was a quick read, but I would definitely recommend skimming the fluff.
+
 * __W.S. Gilbert__, [_The Savoy Operas_](https://www.amazon.com/Savoy-Operas-Complete-Sullivan-Classics-ebook/dp/B002RI95AE/ref=sr_1_1?s=books&ie=UTF8&qid=1519577742&sr=1-1&keywords=the+savoy+operas)
-Funny and enjoyable reads! I read HMS Pinafore, Iolanthe, Utopia Limited, and The Pirates of Penzance. Gilbert is an expert satirest and opera writer. His operas are critical of British traditions as they are catchy. Recommeneded for a quick and relaxing read.
+Funny and enjoyable reads! I read HMS Pinafore, Iolanthe, Utopia Limited, and The Pirates of Penzance. Gilbert is an expert satirist and opera writer. His operas are critical of British traditions as they are catchy. Recommended for a quick and relaxing read.
 
 * __Friedrich Dürrenmatt__, [_The Visit_](https://www.amazon.com/dp/0802144268/ref=cm_sw_r_tw_dp_U_x_-3UKAbMSADP5N)
-Another funny-yet-powerful read! This book handles difficult issues of poverty and ethics with a comedict twist. It is a short read that I would recommend if one is in a mood for macabre humor.
+Another funny-yet-powerful read! This book handles difficult issues of poverty and ethics with a comedic twist. It is a short read that I would recommend if one is in a mood for macabre humor.
 
 * __Czeslaw Milosz__, [_The Captive Mind_](https://www.amazon.com/Captive-Mind-Czeslaw-Milosz/dp/0679728562)
 Great read! (I mean, it won a Nobel Prize for Literature) Through his experience in the Soviet Union, Milosz outlines how intelligent and "normal" people can accept, rationalize, and participate in dangerous ideologies. It is easy to look from the outside and judge people for what we believe to the incorrect decision. Milosz's book shows us that it is not that simple; even dangerous ideologies can have allure for an individual.
@@ -47,7 +50,7 @@ Excellent book, highly recommended. I found this book particularly useful in und
 Great book, recommended. Borowski offers a truly unique prospective on the Holocaust as a Kappo, a prisoner forced to aid the genocide in concentration camps. Borowski's stories are a lens into a brutal life where shunning morality is a necessity for survival. He captures the darkest of human nature and man's ability to endure the worst of conditions.
 
 * __Kurt Vonnuget__, [_The Sirens of Titan_](https://www.amazon.com/Sirens-Titan-S-F-Masterworks/dp/1857988841/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)
-Recommended. Classic Vonnuget, full of satire and wit, combined with a bit of science fiction. In Sirens of Titan, Vonneget highlights the absurdity of religion, the lack of free will, and the ultimate purpose of life. A short and enjoyable read.
+Recommended. Classic Vonnuget, full of satire and wit, combined with a bit of science fiction. In Sirens of Titan, Vonnuget highlights the absurdity of religion, the lack of free will, and the ultimate purpose of life. A short and enjoyable read.
 
 * __Josh Waitzkin__, [_The Art of Learning_](https://www.amazon.com/Art-Learning-Journey-Optimal-Performance/dp/0743277465/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1519577809&sr=8-1)
 Fairly good. It is always interesting going through the mind of people at the top of their field, this book is no exception. In this book, Waitzkin synthesizes the art of learning through years of being a top competitor in Chess and Tai Chi. I found his observations useful, though they were mostly reinforcing ideas which I was exposed through from a [course offered on coursera](https://www.coursera.org/learn/learning-how-to-learn).
