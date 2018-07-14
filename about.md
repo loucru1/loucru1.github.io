@@ -6,9 +6,9 @@ permalink: /about/
 ---
 
 **Name:** Louis Cruz  
-**Location:** Mountain View, CA
-**Occupation:** Software Engineer at Coursera
-**Email:** lac323@cornell.edu
+**Location:** Mountain View, CA  
+**Occupation:** Software Engineer at Coursera  
+**Email:** lac323@cornell.edu  
 
 
 Recent Cornell Unviersity graduate working as a software engineer for Coursera.  My interests
